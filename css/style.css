@@ -79,9 +79,9 @@ padding-bottom: 1em;}
  border-color: #dee1e39e;
     border-style: solid;
     border-width: 2px 2px 2px 2px;
-    border-radius: 0.2rem;}
-#card-one h4 {text-align: center;
-        
+    border-radius: 0.3rem;}
+#card-one h4 {
+    text-align: center;   
     padding-top: 1em;
     font-size: 1em;
     font-weight: 700;
@@ -95,9 +95,10 @@ padding-bottom: 1em;}
         text-align: center;
         margin: 2em;
      border-color: #dee1e39e;
+     border-radius: 20px;
         border-style: solid;
         border-width: 2px 2px 2px 2px;
-        border-radius: 0.2rem;}
+        border-radius: 0.3rem;}
 #card-two h4 {text-align: center;
     padding-top: 1em;
     font-size: 1em;
@@ -114,7 +115,7 @@ padding-bottom: 1em;}
      border-color: #dee1e39e;
         border-style: solid;
         border-width: 2px 2px 2px 2px;
-        border-radius: 0.2rem;}
+        border-radius: 0.3rem;}
 #card-three h4 {text-align: center;
     padding-top: 1em;
     font-size: 1em;
@@ -134,5 +135,5 @@ padding: 1em 1em 1em 1em;
 font-size: 2em;}
 footer span {display: inline-block;
     width: 60%;
-     border-bottom: white solid 1px;}
+     border-bottom: white solid 0.1em;}
   footer #footer-last-p {padding-bottom:2em;}
