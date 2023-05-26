@@ -22,14 +22,14 @@ h1, h2, h3, h4 {font-family: 'Montserrat', sans-serif;
 #title {background-image: url(../images/banner.jpg);
 background-size: contain;background-size: 100%; text-align: center;}
 h1 {text-align: center;
-    font-size: 1.5em;
+    font-size: 3em;
     font-weight: 700;
     line-height: 1 ;
 padding: 4em;
 padding-bottom: 0.5em;}
 #title p {
     text-align: center;
-    font-size: 0.8em;
+    font-size: 1.2em;
 padding: 0em 30% 0em 30%;
 margin-left: auto;
 margin-right: auto;}
@@ -45,14 +45,15 @@ header button {
     margin-top: 30px;
     min-height: 3em; 
     min-width: 10em;}
+    #section-one #div-img {float:left}
 
-    #section-one #img-1 {display: inline; width: 35%;margin: 0 auto;
-        border-radius: 100%; padding: 2em 2em 4em 5em;}
+    #section-one #img-1 {display: inline;border-radius: 500%; padding: 2em 2em 4em 5em;
+    margin-bottom: 5%;}
 
-    #section-one div {display: inline-block; margin: auto;
-    width: 50%;}
-#section-one div p{display: inline-block;margin: auto;}
-
+    #section-one {display: inline-block; margin: auto;
+    width: 100%;}
+#text { height: 100%;width: 50%; padding-top: 10%;
+    display:inline-block;margin-top: auto; margin-bottom: auto;}
 
 
 #orange-card {
