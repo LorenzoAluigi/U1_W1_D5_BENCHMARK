@@ -70,18 +70,34 @@ padding-bottom: 1em;}
     font-style: italic;font-size: 1em;
 line-height: 1;
 padding-bottom: 1em;}
-
-#card-one {margin: 2em}
+#section-two{text-align: center;}
+#card-one {
+    width: 80%;
+    display: inline-block;
+    text-align: center;
+    margin: 2em;
+ border-color: #dee1e39e;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 0.2rem;}
 #card-one h4 {text-align: center;
+        
     padding-top: 1em;
     font-size: 1em;
     font-weight: 700;
     line-height: 1 ;
 padding-bottom: 1em;}
 #card-one p {text-align: center;
-    padding: 0em 1em 0em 1em}
+    padding: 0em 1em 2em 1em}
 
-    #card-two {margin: 2em}
+    #card-two {width: 80%;
+        display: inline-block;
+        text-align: center;
+        margin: 2em;
+     border-color: #dee1e39e;
+        border-style: solid;
+        border-width: 2px 2px 2px 2px;
+        border-radius: 0.2rem;}
 #card-two h4 {text-align: center;
     padding-top: 1em;
     font-size: 1em;
@@ -89,9 +105,16 @@ padding-bottom: 1em;}
     line-height: 1 ;
 padding-bottom: 1em;}
 #card-two p {text-align: center;
-    padding: 0em 1em 0em 1em}
+    padding: 0em 1em 2em 1em}
 
-    #card-three {margin: 2em}
+    #card-three {width: 80%;
+        display: inline-block;
+        text-align: center;
+        margin: 2em;
+     border-color: #dee1e39e;
+        border-style: solid;
+        border-width: 2px 2px 2px 2px;
+        border-radius: 0.2rem;}
 #card-three h4 {text-align: center;
     padding-top: 1em;
     font-size: 1em;
@@ -99,7 +122,7 @@ padding-bottom: 1em;}
     line-height: 1 ;
 padding-bottom: 1em;}
 #card-three p {text-align: center;
-    padding: 0em 1em 0em 1em}
+    padding: 0em 1em 2em 1em}
 
     footer{background-color: #25a2c3;
     text-align: center; color: white; font-size: 0.pem;}
