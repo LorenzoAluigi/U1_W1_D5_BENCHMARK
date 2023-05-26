@@ -16,7 +16,7 @@ img {width: 100%;}
     width: 100%;
     text-align: center;
     }
-    #logo img {width: 50%;
+    #logo img {width: 40%;
     margin:1.5em;
 ;}
 #title {background-image: url(../images/banner.jpg);
@@ -125,11 +125,14 @@ padding-bottom: 1em;}
     padding: 0em 1em 2em 1em}
 
     footer{background-color: #25a2c3;
-    text-align: center; color: white; font-size: 0.pem;}
-
+    text-align: center; color: #c8e7f0; font-size: 0.pem;}
+footer a{color: #c8e7f0;}
     #footer-title{color: white;
     text-align: center;
 font-weight: bold;
 padding: 1em 1em 1em 1em;
 font-size: 2em;}
-
+footer span {display: inline-block;
+    width: 60%;
+     border-bottom: white solid 1px;}
+  footer #footer-last-p {padding-bottom:2em;}
