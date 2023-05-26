@@ -10,6 +10,7 @@ color: #392d41;
 h1, h2, h3, h4 {font-family: 'Montserrat', sans-serif;
     line-height: 1.5;
     color: #25a2c3}
+
 img {width: 100%;}
     #logo{background-color: black;
     width: 100%;
@@ -41,3 +42,32 @@ header button {
     min-height: 50px; 
     min-width: 150px;
 }
+#section-one{margin-top: 2em;}
+#sesection-one article:first-child {margin-top: 1em; margin-bottom: 1em;}
+#section-one h3 {text-align: center;
+    font-size: 1em;
+    font-weight: 700;
+    line-height: 1 ;
+padding-bottom: 1em;}
+
+#section-one p {text-align: center;
+    padding: 0em 1em 0em 1em}
+    #section-one article{padding-top: 1em; padding-bottom: 1em;}
+ #img-1 {border-radius: 100%;padding: 2em;
+}
+
+#orange-card {
+    background-color: #f04c2f;
+    text-align: center;}
+    #orange-card>h2 {font-weight: 700; font-size: 1.2em;color: white;
+    padding-top: 1em;padding-bottom: 1em}
+    
+    
+    #orange-card>div {padding-bottom: 2em;}
+    #orange-card>div>p {color: white; font-size: 0.7em;}
+    #CEO {font-size: 1.6em;}
+    #orange-card .cit {color: white;
+    font-style: italic;font-size: 1em;
+line-height: 1;
+padding-bottom: 1em;}
+
